@@ -7,3 +7,5 @@ faiss-cpu
 sentence-transformers 
 transformers 
 huggingface_hub
+
+pandas
