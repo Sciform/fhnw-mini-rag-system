@@ -1,0 +1,9 @@
+ipykernel
+
+langchain 
+langchain-community
+langchain-huggingface
+faiss-cpu 
+sentence-transformers 
+transformers 
+huggingface_hub
